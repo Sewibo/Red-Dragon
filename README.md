@@ -103,8 +103,8 @@ Recommended WhatsApp👇
 </details>
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
-</p>
+<img src="[https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+</p>](https://github.com/Sewibo/Red-Dragon)
 
 ## 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐
 
